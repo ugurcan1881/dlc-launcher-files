@@ -4,10 +4,28 @@
       "name": "Crusader Kings 3",
       "version": "game",
       "size": "348 MB",
-      "url": "https://github.com/ugurcan1881/dlc-launcher-files/releases/download/game/T.T.Crusader.Kings.3.ALL.DLC.7z",
+      "url": "",
+      "githubRepo": "ugurcan1881/dlc-launcher-files",
+      "githubRelease": "game",
+      "assetPattern": "T.T.Crusader.Kings.3.ALL.DLC.7z",
       "fileName": "T.T.Crusader.Kings.3.ALL.DLC.7z",
       "sha256": "",
-      "extract": false
+      "extract": true
+    },
+    {
+      "name": "Hearts of Iron IV",
+      "version": "hoi4",
+      "size": "3.1 GB",
+      "url": "",
+      "githubRepo": "ugurcan1881/dlc-launcher-files",
+      "githubRelease": "hoi4",
+      "assetPatterns": [
+        "T.T.Hearts.of.Iron.IV.Part.One",
+        "T.T.Hearts.of.Iron.IV.Part.Two.7z"
+      ],
+      "fileName": "T.T.Hearts.of.Iron.IV.Part.One",
+      "sha256": "",
+      "extract": true
     }
   ]
 }
